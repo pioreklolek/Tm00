@@ -1,0 +1,3 @@
+username,filepath,expectedBase64Image
+user1,src/test/resources/testdata/tm00.csv,expectedImage1Base64
+user2,src/test/resources/testdata/tm01.csv,expectedImage2Base64
